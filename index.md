@@ -2,7 +2,6 @@
 Title: "John's Digital Garden"
 Permalink: /
 Layout: default
-Theme: Cayman
 ---
 
 # Home Page
