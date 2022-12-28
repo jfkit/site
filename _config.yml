@@ -28,7 +28,7 @@ twitter_username: johnkitchen
 github_username:  jfkit
 
 # Build settings
-theme: Cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
