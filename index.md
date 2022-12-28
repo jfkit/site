@@ -1,5 +1,5 @@
 ---
-Title: "John Kitchen's Place"
+Title: "John's Digital Garden"
 Permalink: /
 Layout: default
 Theme: Cayman
