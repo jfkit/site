@@ -2,6 +2,7 @@
 Title: "John Kitchen's Place"
 Permalink: /
 Layout: default
+Theme: Cayman
 ---
 
 # Home Page
